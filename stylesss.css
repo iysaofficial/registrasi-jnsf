@@ -11,7 +11,7 @@ body {
   justify-content: center;
   align-items: center;
   padding: 10px;
-  background: linear-gradient(to right, #006400  50%, #3CB371 100%);
+  background: linear-gradient(to right, #101084  50%, #006400 100%);
 }
 .container {
   max-width: 700px;
@@ -36,7 +36,7 @@ body {
   height: 3px;
   width: 30px;
   border-radius: 5px;
-  background: linear-gradient(to right, #006400  50%, #3CB371 100%);
+  background: linear-gradient(to right, #101084  50%, #006400 100%);
 }
 /* .content {
   margin-top: 9rem;
@@ -97,7 +97,7 @@ form .input-box span.details {
 .garis-bawah::after {
   position: absolute;
   content: '';
-  background: linear-gradient(to right, #006400  50%, #3CB371 100%);
+  background: linear-gradient(to right, #101084  50%, #006400 100%);
   height: 4px;
   width: 100px;
   left: 10%;
@@ -117,17 +117,17 @@ form .input-box span.details {
 }
 .user-details .input-box input:focus,
 .user-details .input-box input:valid {
-  border-color: #006400;
+  border-color: #101084 ;
 }
 
 .user-details .input-box textarea:focus,
 .user-details .input-box textarea:valid {
-  border-color: #006400;
+  border-color: #101084 ;
 }
 
 .user-details .input-box select:focus,
 .user-details .input-box select:valid {
-  border-color: #006400;
+  border-color: #101084 ;
 }
 
 form .gender-details .gender-title {
@@ -160,11 +160,11 @@ form .button input {
   letter-spacing: 1px;
   cursor: pointer;
   transition: all 0.3s ease;
-  background: linear-gradient(to right, #006400  50%, #3CB371 100%);
+  background: linear-gradient(to right, #101084  50%, #006400 100%);
 }
 form .button input:hover {
   /* transform: scale(0.99); */
-  background: linear-gradient(-135deg, #3CB371, #006400);
+  background: linear-gradient(-135deg, #006400 , #101084);
 }
 
 @media (max-width: 767px) {
@@ -213,7 +213,7 @@ form .button input:hover {
   .garis-bawah::after {
     position: absolute;
     content: '';
-    background: linear-gradient(to right, #006400  50%, #3CB371 100%);
+    background: linear-gradient(to right, #101084  50%, #006400 100%);
     height: 4px;
     width: 100px;
     left: 17%;
@@ -225,7 +225,7 @@ form .button input:hover {
   .garis-bawah::after {
     position: absolute;
     content: '';
-    background: linear-gradient(to right, #006400  50%, #3CB371 100%);
+    background: linear-gradient(to right, #101084  50%, #006400 100%);
     height: 4px;
     width: 100px;
     left: 18%;
@@ -244,7 +244,7 @@ form .button input:hover {
   .garis-bawah::after {
     position: absolute;
     content: '';
-    background: linear-gradient(to right, #006400  50%, #3CB371 100%);
+    background: linear-gradient(to right, #101084  50%, #006400 100%);
     height: 4px;
     width: 100px;
     left: 18%;
@@ -264,7 +264,7 @@ form .button input:hover {
   .garis-bawah::after {
     position: absolute;
     content: '';
-    background: linear-gradient(to right, #006400  50%, #3CB371 100%);
+    background: linear-gradient(to right, #101084  50%, #006400 100%);
     height: 4px;
     width: 100px;
     left: 20%;
@@ -283,7 +283,7 @@ form .button input:hover {
   .garis-bawah::after {
     position: absolute;
     content: '';
-    background: linear-gradient(to right, #006400  50%, #3CB371 100%);
+    background: linear-gradient(to right, #101084  50%, #006400 100%);
     height: 4px;
     width: 100px;
     left: 8.3%;

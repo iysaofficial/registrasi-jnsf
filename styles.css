@@ -59,7 +59,7 @@ body {
   line-height: 26px;
   font-weight: 400;
   overflow-x: hidden;
-  background: linear-gradient(to right, 	#006400  50%, #3CB371 100%);
+  background: linear-gradient(to right, #101084  50%, #006400 100%);
 }
 
 .wrapper {
@@ -88,7 +88,7 @@ body {
   font-weight: bold;
   border-radius: 10px;
   padding: 5px;
-  background: linear-gradient(to right, 	#006400  50%, #3CB371 100%);
+  background: linear-gradient(to right, #101084  50%, #006400 100%);
 }
 
 .wrapper h3 {
@@ -140,7 +140,7 @@ a {
 
 .btn--primary:hover {
   color: #ffffff;
-  background: linear-gradient(to right, #006400  50%, #3CB371 100%);
+  background: linear-gradient(to right, #101084  50%, #006400 100%);
   box-shadow: 0 4px 15px 0 rgba(245,245,245);
 }
 
@@ -199,7 +199,7 @@ a {
     font-weight: bold;
     border-radius: 25px;
     padding: 5px;
-    background: linear-gradient(135deg, #9b59b6, #71b7e6);
+    background: linear-gradient(to right, #101084  50%, #006400 100%);
   }
   .btn {
     padding: 10px 10px;
